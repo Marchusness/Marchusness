@@ -1,6 +1,6 @@
 # Marcus Gunn
 
-📍 Sydney, Australia | Forward Deployed Engineer | Lyra Technologies
+📍 Sydney, Australia | Forward Deployed Engineer | FDE @ Lyra
 
 ## Projects
 
