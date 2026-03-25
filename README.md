@@ -1,12 +1,12 @@
 # Marcus Gunn
 
-Full-stack engineer shipping apps. Based in Sydney.
+📍 Sydney, Australia | Forward Deployed Engineer | Lyra Technologies
 
 ## Projects
 
-| Project | Description |
-|---------|-------------|
-| *Coming soon* | |
+- **[Tapper](https://apps.apple.com/au/app/id6743667204)** - Mac auto clicker with 2000+ ratings Avg. 4.8 Stars on the App Store
+- **[Realtime folder sync](https://github.com/Marchusness/RealtimeFolderSync)** - Sync the contents of a folder real time between multiple computers
+- **[Cloud ping](https://github.com/Marchusness/cloud_ping)** - Get average latencies between a cloudflare worker region and all aws data centers. Used for getting the closest AWS region for a user.
 
 ## Contact
 
