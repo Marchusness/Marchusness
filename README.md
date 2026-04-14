@@ -4,13 +4,13 @@
 
 ## Projects
 
-- **[Tapper](https://apps.apple.com/au/app/id6743667204)** - Mac auto clicker with 2000+ ratings Avg. 4.8 Stars on the App Store
+- **[Tapper](https://github.com/Marchusness/auto-clicker)** - **[App Store](https://apps.apple.com/au/app/id6743667204)** - Mac auto clicker with 2000+ ratings Avg. 4.8 Stars on the App Store
 - **[Realtime folder sync](https://github.com/Marchusness/RealtimeFolderSync)** - Sync the contents of a folder real time between multiple computers
 - **[Cloud ping](https://github.com/Marchusness/cloud_ping)** - Get average latencies between a cloudflare worker region and all aws data centers. Used for getting the closest AWS region for a user.
 
 current project:
 
-- **[better coding agent](https://better-coding-agent.vercel.app/) - Archatect the scafolding of the codebase before the AI agent starts implementing 
+- **[better coding agent](https://better-coding-agent.vercel.app/)** - Archatect the scafolding of the codebase before the AI agent starts implementing 
 
 ## Contact
 
