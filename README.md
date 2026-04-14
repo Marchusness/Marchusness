@@ -10,7 +10,7 @@
 
 current project:
 
-- **[better coding agent](https://better-coding-agent.vercel.app/)** - (Typescript, Electron, NextJs) Archatect the scafolding of the codebase before the AI agent starts implementing 
+- **[Better Coding Agent](https://better-coding-agent.vercel.app/)** - (Typescript, Electron, NextJs) Archatect the scafolding of the codebase before the AI agent starts implementing 
 
 ## Contact
 
