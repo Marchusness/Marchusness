@@ -10,7 +10,7 @@
 
 current project:
 
-- **[KeyCast](https://github.com/Marchusness/keycast)** - High performance cross platform dictation app built in Tauri.
+- **[better coding agent](https://better-coding-agent.vercel.app/) - Archatect the scafolding of the codebase before the AI agent starts implementing 
 
 ## Contact
 
